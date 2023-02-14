@@ -1,0 +1,15 @@
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\bin\Debug\net6.0\ReverseTheNumber.exe
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\bin\Debug\net6.0\ReverseTheNumber.deps.json
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\bin\Debug\net6.0\ReverseTheNumber.runtimeconfig.json
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\bin\Debug\net6.0\ReverseTheNumber.dll
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\bin\Debug\net6.0\ReverseTheNumber.pdb
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\ReverseTheNumber.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\ReverseTheNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\ReverseTheNumber.AssemblyInfoInputs.cache
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\ReverseTheNumber.AssemblyInfo.cs
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\ReverseTheNumber.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\ReverseTheNumber.dll
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\refint\ReverseTheNumber.dll
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\ReverseTheNumber.pdb
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\ReverseTheNumber.genruntimeconfig.cache
+C:\Users\hp\source\repos\ReverseTheNumber\ReverseTheNumber\obj\Debug\net6.0\ref\ReverseTheNumber.dll
